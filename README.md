@@ -1,1 +1,1 @@
-# devJenna
+# lottery-number-generator
